@@ -1,0 +1,36 @@
+[33mcommit e8815cf15a0d42206ffc5a5fe56cf570fc368f6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 5243520 1bce8b1
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Sat Apr 25 14:55:41 2026 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 5243520639ace3e072d308ba6f7d35e428d488e3[m
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Sat Apr 25 14:53:23 2026 -0500
+
+    E: update contents
+
+[33mcommit 1bce8b1054dc3f473fae5a5bbc7bb4bf986911be[m
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Fri Apr 24 18:10:25 2026 -0500
+
+    D: add classics
+
+[33mcommit b7a17786559c1d3eee23935caebec65d9c41732f[m
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Thu Apr 23 16:58:04 2026 -0500
+
+    C: add quotes
+
+[33mcommit c56685d531014292c73e5de810a2c6ea1377ff68[m
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Thu Apr 23 16:50:14 2026 -0500
+
+    B: add titles
+
+[33mcommit 7d9e552a2bce13e375ae72d35f4480e0d1e28fb1[m
+Author: Micah Mohr <git.gay.earmuff225@passmail.net>
+Date:   Thu Apr 23 15:38:31 2026 -0500
+
+    A: add contents.md
